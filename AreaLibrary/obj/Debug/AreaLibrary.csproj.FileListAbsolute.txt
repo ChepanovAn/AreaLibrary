@@ -1,0 +1,5 @@
+C:\Users\Анатолий\source\repos\AreaLibrary\AreaLibrary\bin\Debug\AreaLibrary.dll
+C:\Users\Анатолий\source\repos\AreaLibrary\AreaLibrary\bin\Debug\AreaLibrary.pdb
+C:\Users\Анатолий\source\repos\AreaLibrary\AreaLibrary\obj\Debug\AreaLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Анатолий\source\repos\AreaLibrary\AreaLibrary\obj\Debug\AreaLibrary.dll
+C:\Users\Анатолий\source\repos\AreaLibrary\AreaLibrary\obj\Debug\AreaLibrary.pdb
